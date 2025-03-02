@@ -12,7 +12,6 @@ public:
                 cnt++;
             } else if (s[i] == ' ' && cnt >= 1) {
                 ans += (s.substr(i + 1, cnt) + " ");
-                // flag = false;
                 cnt = 0;
             }
         }
