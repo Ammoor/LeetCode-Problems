@@ -11,3 +11,11 @@ How to add your LeetCode solution into your GitHub repo in simple steps **:**
 - Go to your linked GitHub repo, and you will find your solution with the Time & Space Complexity and the problem text
 
 **Friendly Reminder:** To enjoy the best experience with the new LeetCode UI, please make sure to install the latest version of the extension, as earlier versions might not function properly. Thank you!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ammoor/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+<!---LeetCode Topics End-->
